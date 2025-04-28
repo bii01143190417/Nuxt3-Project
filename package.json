@@ -8,8 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.0.0",
-    "prisma": "^4.8.0"
+    "nuxt": "^3.0.0",
+    "prisma": "^4.16.2"
   },
   "dependencies": {
     "@nuxt/image-edge": "^1.0.0-27809804.194d2d6",
@@ -18,7 +18,8 @@
     "@prisma/client": "^4.8.0",
     "@supabase/supabase-js": "^2.2.2",
     "@vueuse/nuxt": "^9.6.0",
-    "joi": "^17.7.0",
+    "joi": "^17.13.3",
+    "join": "^3.0.0",
     "supabase": "^1.27.7",
     "validator": "^13.7.0",
     "validatorjs": "^3.22.1"
